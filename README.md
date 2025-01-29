@@ -27,7 +27,7 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 ### Tools & Technologies:
 - 🔄 **Version Control**: Git & GitHub  
 - 🧪 **Testing**: Postman and ThunderClient for API Testing  
-- 🖥️ **IDEs**: VS Code, IntelliJ IDEA  
+- 🖥️ **IDEs**: VS Code, Eclipse 
 
 ### Other Skills:
 - 🧩 Problem-solving using **LeetCode**, **GeeksforGeeks**
@@ -39,9 +39,9 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 **Tech Stack**: HTML, CSS, JavaScript  
 🎨 A responsive personal portfolio showcasing my projects, skills, and achievements.
 
-### 🛡️ Authentication System
-**Tech Stack**: Node.js, Express.js, SQL  
-🔒 An authentication system with private/public routes and middleware for secure access control.
+### 🛡️ Contact Manager Application System
+**Tech Stack**: Node.js, Express.js, Mongo db  
+🔒 An system with private/public routes and middleware for secure access control.
 
 ### 🗄️ Form Data Storage
 **Tech Stack**: Node.js, SQL  
