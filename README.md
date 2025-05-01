@@ -9,13 +9,14 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 - 🔍 **Interests**: Backend Development, Computer Networks, and Problem-Solving  
 - 🚀 **Mission**: To build innovative solutions and guide fellow students in skill development, domain selection, and placement preparation.  
 - 🌱 **Currently Learning**:  
-  - 📘 Strengthening concepts in **Datastructure Algorithms**  
+  - 📘 Strengthening concepts in **Data Structures and Algorithms**  
   - 🔧 Exploring **Node.js** and **MongoDB** for backend development  
   - 🎯 Practicing problems on **LeetCode**
 
 ---
 
 ## 🛠️ Skills
+
 ### Programming Languages:
 - 💻 **C** | **C++** | **Java** | **JavaScript** | **Python**
 
@@ -35,13 +36,14 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 ---
 
 ## 📂 Projects
+
 ### 🌐 [Dhinakaran Portfolio](#)
 **Tech Stack**: HTML, CSS, JavaScript  
 🎨 A responsive personal portfolio showcasing my projects, skills, and achievements.
 
 ### 🛡️ Contact Manager Application System
-**Tech Stack**: Node.js, Express.js, Mongo db  
-🔒 An system with private/public routes and middleware for secure access control.
+**Tech Stack**: Node.js, Express.js, MongoDB  
+🔒 A system with private/public routes and middleware for secure access control.
 
 ### 🗄️ Form Data Storage
 **Tech Stack**: Node.js, SQL  
@@ -55,7 +57,14 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 
 ---
 
+## 📊 GitHub Stats
+
+![Dhinakaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhinakaranst&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+---
+
 ## 🏆 LeetCode Status
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DHINAKARAN_Thillainathan?theme=light&font=Karma&ext=heatmap)
 
 ---
