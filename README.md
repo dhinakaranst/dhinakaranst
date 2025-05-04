@@ -59,7 +59,8 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 
 ## 📊 GitHub Stats
 
-![Dhinakaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhinakaranst&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![Dhinakaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhinakaranst)](https://github.com/dhinakaranst/github-readme-stats)
+
 
 ---
 
