@@ -1,37 +1,54 @@
 # 💻 Dhinakaran | Computer Science Engineering Student
 
-Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CSE) student** with a strong foundation in programming, problem-solving, and software development. My journey in technology is driven by curiosity, a love for learning, and the desire to make meaningful contributions to the tech community.
+![image](https://github.com/user-attachments/assets/40cda00b-808a-455f-aecd-53257b8e51c7)
+
+
+
+Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CSE) student**, open-source contributor, and problem-solver. I love building useful tech products and sharing knowledge with peers.
 
 ---
 
 ## 🌟 About Me
 - 🎓 **Education**: B.E. in Computer Science and Engineering (3rd Year)  
 - 🔍 **Interests**: Backend Development, Computer Networks, and Problem-Solving  
-- 🚀 **Mission**: To build innovative solutions and guide fellow students in skill development, domain selection, and placement preparation.  
+- 🚀 **Mission**: Build innovative solutions & empower students through guidance on skills and placements  
 - 🌱 **Currently Learning**:  
-  - 📘 Strengthening concepts in **Data Structures and Algorithms**  
-  - 🔧 Exploring **Node.js** and **MongoDB** for backend development  
-  - 🎯 Practicing problems on **LeetCode**
+  - 📘 Mastering **Data Structures and Algorithms**  
+  - 🔧 Advancing in **Node.js** and **MongoDB**  
+  - 🎯 Daily problem-solving on **LeetCode**
 
 ---
 
 ## 🛠️ Skills
 
-### Programming Languages:
-- 💻 **C** | **C++** | **Java** | **JavaScript** | **Python**
+### 🚀 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### Web Development:
-- 🌐 **Frontend**: HTML, CSS, JavaScript  
-- 🛠️ **Backend**: Node.js, Express.js  
-- 🗄️ **Database**: SQL, MongoDB  
+### 🌐 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### Tools & Technologies:
-- 🔄 **Version Control**: Git & GitHub  
-- 🧪 **Testing**: Postman and ThunderClient for API Testing  
-- 🖥️ **IDEs**: VS Code, Eclipse 
+### 🔧 Tools & IDEs
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ThunderClient-007ACC?style=for-the-badge&logo=thunder-client&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-### Other Skills:
-- 🧩 Problem-solving using **LeetCode**, **GeeksforGeeks**
 
 ---
 
@@ -49,11 +66,16 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 **Tech Stack**: Node.js, SQL  
 📥 A project to collect and store form submission data in a SQL database using APIs.
 
+### 📝 Notes Making Application
+**Tech Stack**: Node.js, Express.js, MongoDB, EJS  
+🗒️ A productivity tool to create, edit, and manage personal notes.
+
 ---
 
-## 🎯 Achievements
+## 🏆 Achievements
+- 🧑‍💻 Official **Open Source Contributor**  
 - 🏅 Earned the **100 Days Badge on LeetCode**  
-- 🚀 Solved **array, two-pointer, linked list, recursion, and hashing** problems from the Striver Sheet  
+- 🚀 Mastered array, two-pointer, recursion, hashing, and linked list problems from the Striver Sheet  
 
 ---
 
@@ -63,7 +85,6 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 ![dhinakaranst's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhinakaranst&theme=radical&hide_border=true)
 ![dhinakaranst's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhinakaranst&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-
 ---
 
 ## 🏆 LeetCode Status
@@ -72,10 +93,10 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 
 ---
 
-## 🌱 Future Goals
-- 📖 Master advanced concepts in **backend development** and **system design**  
-- 🤝 Build a strong **tech community** to help fellow students thrive  
-- 🏆 Contribute to **open-source projects**
+## 🎯 Future Goals
+- 📖 Master **backend system design** and advanced development concepts  
+- 🤝 Build a **student tech community** for skill development and placement prep  
+- 🌍 Contribute more to impactful **open-source projects**
 
 ---
 
@@ -85,4 +106,4 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 
 ---
 
-💡 *"The best way to predict the future is to create it."* – Let's connect and create something amazing together!
+💡 *"The best way to predict the future is to create it."* – Let’s collaborate and innovate together!
