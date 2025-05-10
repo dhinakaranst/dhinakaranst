@@ -3,7 +3,6 @@
 ![image](https://github.com/user-attachments/assets/40cda00b-808a-455f-aecd-53257b8e51c7)
 
 
-
 Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CSE) student**, open-source contributor, and problem-solver. I love building useful tech products and sharing knowledge with peers.
 
 ---
