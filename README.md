@@ -10,7 +10,7 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 ## 🌟 About Me
 - 🎓 **Education**: B.E. in Computer Science and Engineering (3rd Year)  
 - 🔍 **Interests**: Backend Development, Computer Networks, and Problem-Solving  
-- 🚀 **Mission**: Build innovative solutions & empower students through guidance on skills and placements  
+- 🚀 **Mission**: Build innovative solutions & empower students through guidance on skills and placements 
 - 🌱 **Currently Learning**:  
   - 📘 Mastering **Data Structures and Algorithms**  
   - 🔧 Advancing in **Node.js** and **MongoDB**  
