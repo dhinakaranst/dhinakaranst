@@ -1,4 +1,5 @@
 # 💻 Dhinakaran | Computer Science Engineering Student
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+Dear+GitHubers...;I'm+GitHub+OpenSource+Contributor!;My+Name+is+Dhinakaran!;I'm+Student+Developer!;Interested+in+OpenSource+too!)
 
 ![image](https://github.com/user-attachments/assets/40cda00b-808a-455f-aecd-53257b8e51c7)
 
