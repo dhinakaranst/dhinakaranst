@@ -1,85 +1,81 @@
-# 💻 Dhinakaran | Computer Science Engineering Student
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+Dear+GitHubers...;I'm+GitHub+OpenSource+Contributor!;My+Name+is+Dhinakaran!;I'm+Student+Developer!;Interested+in+OpenSource+too!)
+# 💻 Dhinakaran | Backend Developer | Open Source | MicroSaaS Builder
 
-![image](https://github.com/user-attachments/assets/40cda00b-808a-455f-aecd-53257b8e51c7)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Hey+GitHubers!;I'm+Dhinakaran%2C+a+Tech+Builder!;Passionate+about+OpenSource+%26+Automation;Building+MicroSaaS+%26+DevTools)
 
-
-Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CSE) student**, open-source contributor, and problem-solver. I love building useful tech products and sharing knowledge with peers.
+![GitHub Banner](https://github.com/user-attachments/assets/40cda00b-808a-455f-aecd-53257b8e51c7)
 
 ---
 
-## 🌟 About Me
-- 🎓 **Education**: B.E. in Computer Science and Engineering (3rd Year)  
-- 🔍 **Interests**: Backend Development, Computer Networks, and Problem-Solving  
-- 🚀 **Mission**: Build innovative solutions & empower students through guidance on skills and placements 
-- 🌱 **Currently Learning**:  
-  - 📘 Mastering **Data Structures and Algorithms**  
-  - 🔧 Advancing in **Node.js** and **MongoDB**  
-  - 🎯 Daily problem-solving on **LeetCode**
+## 👋 About Me
+
+Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering student**, open-source contributor, and backend developer. I love building fast, impactful tools for real-world problems — from developer productivity to student success.
+
+- 🎓 **Student at**: B.E. Computer Science and Engineering (2026 Batch)
+- 🔧 **Currently Building**:  
+  - 🧠 **MicroSaaS Tools** for developers and small teams  
+  - 📊 **CommitMetrics** – a GitHub repo analyzer dashboard (MERN)  
+  - ⚙️ Workflow automation apps with Supabase & GitHub integrations  
+- 🌐 **Learning**: Backend system design, advanced Git APIs, cloud deployment (Railway, Vercel, Supabase)
+- 🎯 **Mission**: Build open tools, help students upskill early, and make dev workflows smarter
 
 ---
 
-## 🛠️ Skills
+## 🚀 Tech Stack
 
-### 🚀 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+### 💡 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### 🌐 Web & Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🔧 Tools & IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ThunderClient-007ACC?style=for-the-badge&logo=thunder-client&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ThunderClient](https://img.shields.io/badge/ThunderClient-007ACC?style=for-the-badge&logo=thunder-client&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
-## 📂 Projects
+## ⚒️ Featured Projects
 
-### 🌐 [Dhinakaran Portfolio](#)
-**Tech Stack**: HTML, CSS, JavaScript  
-🎨 A responsive personal portfolio showcasing my projects, skills, and achievements.
+### 🔍 [CommitMetrics](#)
+**Stack**: MERN, GitHub API, Chart.js  
+📊 Visualize repo activity (commits, contributors, languages) using GitHub data.
 
-### 🛡️ Contact Manager Application System
-**Tech Stack**: Node.js, Express.js, MongoDB  
-🔒 A system with private/public routes and middleware for secure access control.
+### 🛡️ Contact Manager System
+**Stack**: Node.js, Express.js, MongoDB  
+🔐 Middleware-auth system with protected routes and CRUD ops.
 
-### 🗄️ Form Data Storage
-**Tech Stack**: Node.js, SQL  
-📥 A project to collect and store form submission data in a SQL database using APIs.
+### 📝 Notes Making App
+**Stack**: Node.js, EJS, MongoDB  
+🗒️ Simple note tracker with database persistence.
 
-### 📝 Notes Making Application
-**Tech Stack**: Node.js, Express.js, MongoDB, EJS  
-🗒️ A productivity tool to create, edit, and manage personal notes.
-
----
-
-## 🏆 Achievements
-- 🧑‍💻 Official **Open Source Contributor**  
-- 🏅 Earned the **100 Days Badge on LeetCode**  
-- 🚀 Mastered array, two-pointer, recursion, hashing, and linked list problems from the Striver Sheet  
+### 🧠 AI-Prompt Powered Document Generator *(Idea-stage)*
+**Goal**: Let users describe a doc and generate it Word-style using AI and export options.
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Achievements
+
+- ✅ **Official Open Source Contributor**
+- 🧮 **100 Days LeetCode Badge**
+- ✍️ Contributed to **automation workflows, plugin development, Git CLI tools**
+- 📚 Guided juniors on skill-building, roadmaps, and project creation
+
+---
+
+## 📈 GitHub Stats
 
 ![dhinakaranst's Stats](https://github-readme-stats.vercel.app/api?username=dhinakaranst&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![dhinakaranst's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhinakaranst&theme=radical&hide_border=true)
@@ -87,23 +83,18 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering (CS
 
 ---
 
-## 🏆 LeetCode Status
+## 📊 LeetCode Status
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DHINAKARAN_Thillainathan?theme=light&font=Karma&ext=heatmap)
 
 ---
 
-## 🎯 Future Goals
-- 📖 Master **backend system design** and advanced development concepts  
-- 🤝 Build a **student tech community** for skill development and placement prep  
-- 🌍 Contribute more to impactful **open-source projects**
+## 🌍 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dhinakaran-t-493308259)
+- 📬 [Email](mailto:dhinakarant104@gmail.com)
 
 ---
 
-## 🤝 Connect With Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhinakaran-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhinakaran-t-493308259)  
-- [![Email](https://img.shields.io/badge/Email-dhinakarant104@gmail.com-red?logo=gmail&logoColor=white)](mailto:dhinakarant104@gmail.com)  
+> 💡 *"Build tools that solve problems. Share what you learn. Grow by creating."*
 
----
-
-💡 *"The best way to predict the future is to create it."* – Let’s collaborate and innovate together!
