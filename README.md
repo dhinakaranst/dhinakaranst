@@ -23,27 +23,30 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering stu
 ## 🚀 Tech Stack
 
 ### 💡 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://github.com/user-attachments/assets/e922246e-ff22-46a8-83cb-35713815ad23)
+![image](https://github.com/user-attachments/assets/ba0fc3a2-0123-42c4-a934-bc9fb1392364)
+![image](https://github.com/user-attachments/assets/7c41c3b0-8631-420f-bc3f-0c3b52ae7425)
+![image](https://github.com/user-attachments/assets/4ab6449b-a68c-47df-8862-fa1e32238fc8)
+![image](https://github.com/user-attachments/assets/a600f116-5354-4d06-9c88-7977ec27dbba)
+![image](https://github.com/user-attachments/assets/89cf6c9e-bef7-4610-89e2-aa5c2b113622)
+![image](https://github.com/user-attachments/assets/7b3d4c9c-eef3-4202-950a-70ed7cb235a4)
+
 
 ### 🌐 Web & Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://github.com/user-attachments/assets/d6bd3cdf-b6dd-4756-9c42-e628de49765b)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://github.com/user-attachments/assets/730d19ad-d188-4f8e-bcd3-35c3fb9a4a2e)
+![image](https://github.com/user-attachments/assets/5e624491-58de-4061-8c5f-16e7ccadac8e)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![image](https://github.com/user-attachments/assets/53b34df3-b6f2-48ff-83ff-ac0fe813de6f)
 
 ### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://github.com/user-attachments/assets/f476c87c-dd6e-4999-b5e6-4c67fd295a98)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ThunderClient](https://img.shields.io/badge/ThunderClient-007ACC?style=for-the-badge&logo=thunder-client&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![image](https://github.com/user-attachments/assets/b8336355-d79a-4caf-97f2-a60dc5b5d68f)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
@@ -98,3 +101,5 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering stu
 
 > 💡 *"Build tools that solve problems. Share what you learn. Grow by creating."*
 
+💻 Workspace Spec
+  
