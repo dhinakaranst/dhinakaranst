@@ -10,7 +10,7 @@
 Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering student**, open-source contributor, and backend developer. I love building fast, impactful tools for real-world problems — from developer productivity to student success.
 
 - 🎓 **Student at**: B.E. Computer Science and Engineering (2026 Batch)
-- 🔧 **Currently Building**:  
+- 🔧 **Currently Building**: 
   - 🧠 **MicroSaaS Tools** for developers and small teams  
   - 📊 **CommitMetrics** – a GitHub repo analyzer dashboard (MERN)  
   - ⚙️ Workflow automation apps with Supabase & GitHub integrations  
