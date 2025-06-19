@@ -1,4 +1,4 @@
-<iframe src="https://github.com/sponsors/dhinakaranst/card" title="Sponsor dhinakaranst" height="225" width="600" style="border: 0;"></iframe>
+
 # 💻 Dhinakaran | Backend Developer | Open Source | MicroSaaS Builder
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Hey+GitHubers!;I'm+Dhinakaran%2C+a+Tech+Builder!;Passionate+about+OpenSource+%26+Automation;Building+MicroSaaS+%26+DevTools)
