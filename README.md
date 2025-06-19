@@ -1,3 +1,4 @@
+[![Sponsor dhinakaranst](https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge)](https://github.com/sponsors/dhinakaranst)
 
 # 💻 Dhinakaran | Backend Developer | Open Source | MicroSaaS Builder
 
