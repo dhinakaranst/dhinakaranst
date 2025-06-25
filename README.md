@@ -53,20 +53,32 @@ Hi! I'm **Dhinakaran**, a passionate **3rd-year Computer Science Engineering stu
 
 ## ⚒️ Featured Projects
 
-### 🔍 [CommitMetrics](#)
+## ⚒️ Featured Projects
+
+### 📈 [GitVision](#)
 **Stack**: MERN, GitHub API, Chart.js  
-📊 Visualize repo activity (commits, contributors, languages) using GitHub data.
+📊 Visualize repository activity (commits, contributors, languages) using GitHub data.
 
 ### 🛡️ Contact Manager System
 **Stack**: Node.js, Express.js, MongoDB  
-🔐 Middleware-auth system with protected routes and CRUD ops.
+🔐 Middleware-auth system with protected routes and CRUD operations.
 
 ### 📝 Notes Making App
 **Stack**: Node.js, EJS, MongoDB  
 🗒️ Simple note tracker with database persistence.
 
-### 🧠 AI-Prompt Powered Document Generator *(Idea-stage)*
-**Goal**: Let users describe a doc and generate it Word-style using AI and export options.
+### 🌐 SiteLens – AI SEO Audit Tool
+**Stack**: Node.js, OpenAI API (mocked), Frontend TBD  
+🔍 Simulates SEO auditing for websites using AI-based analysis and suggestions.
+
+### 🚕 Cabalyze – Price Comparison Tool
+**Stack**: JavaScript, HTML/CSS (Mock Data), Uber API  
+💸 Compares cab fares across Uber (real-time), Ola & Rapido (mock data).
+
+### 🌊 Drainage Monitoring System (IoT)
+**Stack**: ESP32, MQ2 Gas Sensor, Ultrasonic Sensor, Arduino (C++)  
+🚨 Monitors drainage gas levels and water height using sensors, with real-time alerts. Prototyped on a breadboard for early detection of blockages and hazards.
+
 
 ---
 
