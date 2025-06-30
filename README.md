@@ -51,7 +51,6 @@ Hi! I'm **Dhinakaran**, a passionate **Final-year Computer Science Engineering s
 
 ---
 
-## ⚒️ Featured Projects
 
 ## ⚒️ Featured Projects
 
