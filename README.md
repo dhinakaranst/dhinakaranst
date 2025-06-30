@@ -54,7 +54,7 @@ Hi! I'm **Dhinakaran**, a passionate **Final-year Computer Science Engineering s
 
 ## ⚒️ Featured Projects
 
-### 📈 [GitVision](#)
+### 📈 GitVision
 **Stack**: MERN, GitHub API, Chart.js  
 📊 Visualize repository activity (commits, contributors, languages) using GitHub data.
 
