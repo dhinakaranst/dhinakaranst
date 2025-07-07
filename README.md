@@ -14,7 +14,7 @@ Hi! I'm **Dhinakaran**, a passionate **Final-year Computer Science Engineering s
 - 🎓 **Student at**: B.E. Computer Science and Engineering (2026 Batch)
 - 🔧 **Currently Building**: 
   - 🧠 **MicroSaaS Tools** for developers and small teams  
-  - 📊 **CommitMetrics** – a GitHub repo analyzer dashboard (MERN)  
+  - 📊 **GitVision** – a GitHub repo analyzer dashboard (MERN)  
   - ⚙️ Workflow automation apps with Supabase & GitHub integrations  
 - 🌐 **Learning**: Backend system design, advanced Git APIs, cloud deployment (Railway, Vercel, Supabase)
 - 🎯 **Mission**: Build open tools, help students upskill early, and make dev workflows smarter
