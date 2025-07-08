@@ -21,7 +21,7 @@ Hi! I'm **Dhinakaran**, a passionate **Final-year Computer Science Engineering s
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack 
 
 ### 💡 Languages
 ![image](https://github.com/user-attachments/assets/e922246e-ff22-46a8-83cb-35713815ad23)
