@@ -19,7 +19,6 @@ Hi! I'm **Dhinakaran**, a passionate **Final-year Computer Science Engineering s
   - ⚙️ Workflow automation apps with Supabase & GitHub integrations  
 - 🌐 **Learning**: Backend system design, advanced Git APIs, cloud deployment (Railway, Vercel, Supabase)
 - 🎯 **Mission**: Build open tools, help students upskill early, and make dev workflows smarter
-
 ---
 
 ## 🚀 Tech Stack 
