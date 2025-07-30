@@ -9,7 +9,6 @@
 --  
 ## 👋 About Me 
 
-
 Hi! I'm **Dhinakaran**, a passionate **Final-year Computer Science Engineering student**, open-source contributor, and backend developer. I love building fast, impactful tools for real-world problems — from developer productivity to student success.
 
 - 🎓 **Student at**: B.E. Computer Science and Engineering (2026 Batch)
