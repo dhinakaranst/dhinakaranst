@@ -4,9 +4,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Hey+GitHubers!;I'm+Dhinakaran%2C+a+Tech+Builder!;Passionate+about+OpenSource+%26+Automation;Building+MicroSaaS+%26+DevTools)
  
-![GitHub Banner](https://github.com/user-attachments/assets/40cda00b-808a-455f-aecd-53257b8e51c7)\
+![GitHub Banner](https://github.com/user-attachments/assets/40cda00b-808a-455f-aecd-53257b8e51c7)
 
--- 
+---
 ## 👋 About Me 
 
 Hi! I'm **Dhinakaran**, a passionate **Final-year Computer Science Engineering student**, open-source contributor, and backend developer. I love building fast, impactful tools for real-world problems — from developer productivity to student success.
