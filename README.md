@@ -92,6 +92,9 @@ Hi! I'm **Dhinakaran**, a passionate **Final-year Computer Science Engineering s
 ![dhinakaranst's Stats](https://github-readme-stats.vercel.app/api?username=dhinakaranst&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![dhinakaranst's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhinakaranst&theme=radical&hide_border=true)
 ![dhinakaranst's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhinakaranst&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhinakaranst&theme=aura)
+
+![GitHub 3D Contributions Calendar](https://github.com/dhinakaranst/dhinakaranst/blob/main/assets/github-contribution-grid-snake.svg)
 
 ---
 
