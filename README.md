@@ -1,6 +1,6 @@
 [![Sponsor dhinakaranst](https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge)](https://github.com/sponsors/dhinakaranst)
 
-# 💻 Dhinakaran | Software Developer | Open Source | Hacktoberfest 2025 | MicroSaaS Builder | SEO
+# 💻 Dhinakaran | Software Developer | Open Source contributor @Hacktoberfest 2025 | MicroSaaS Builder | SEO
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Hey+GitHubers!;I'm+Dhinakaran%2C+a+Tech+Builder!;Passionate+about+OpenSource+%26+Automation;Building+MicroSaaS+%26+DevTools)
 
@@ -56,6 +56,7 @@ Hi! I'm **Dhinakaran**, a passionate **Final-year Computer Science Engineering s
 
 ## ⚒️ Featured Projects
 
+
 ### 📈 GitVision
 **Stack**: MERN, GitHub API, Chart.js  
 📊 Visualize repository activity (commits, contributors, languages) using GitHub data.
@@ -69,7 +70,7 @@ Hi! I'm **Dhinakaran**, a passionate **Final-year Computer Science Engineering s
 🗒️ Simple note tracker with database persistence.
 
 ### 🌐 SiteLens – AI SEO Audit Tool
-**Stack**: Node.js, OpenAI API (mocked), Frontend TBD  
+**Stack**: Node.js, OpenAI API (mocked), Frontend (React) , BullMQ + reids. 
 🔍 Simulates SEO auditing for websites using AI-based analysis and suggestions.
 
 ### 🚕 Cabalyze – Price Comparison Tool
@@ -86,7 +87,7 @@ Hi! I'm **Dhinakaran**, a passionate **Final-year Computer Science Engineering s
 ## 🏅 Achievements
 
 - ✅ **Official Open Source Contributor**
-- 🧮 **100 Days LeetCode Badge**
+- 🧮 **365 Days LeetCode Badge**
 - ✍️ Contributed to **automation workflows, plugin development, Git CLI tools**
 - 📚 Guided juniors on skill-building, roadmaps, and project creation
 
