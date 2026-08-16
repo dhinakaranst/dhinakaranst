@@ -119,5 +119,8 @@ Hi! I'm **Dhinakaran**, a passionate **Computer Science Engineer**, open-source 
 
 > 💡 *"Build tools that solve problems. Share what you learn. Grow by creating."*
 
-💻 Workspace Spec
+Certification
+
+<img width="896" height="676" alt="image" src="https://github.com/user-attachments/assets/a5dd9d46-e8ad-4e34-a8e1-de4815a30e8a" />
+
   
